@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 * 🌍  I'm based in VietNam
-* 🧠  I'm learning Flutter framework
+* 🧠  I'm learning Laravel framework
 * ⚡  My lucky charm is a four-leaf clover, bringing me good fortune in my coding journey!🍀🍀
 
 ## Skills & Technologies
